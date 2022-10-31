@@ -7,6 +7,8 @@ The procedure presented is specific to OpenWRT, an open-source project for embed
 
 It will present the basic needs and actions to create a custom image, but each operating systems may have specifics which will need to be troubleshooted.
 
+NOTE: this tutorial is now featured in the [Scaleway Documentation](https://www.scaleway.com/en/docs/tutorials/create-openwrt-image-for-scaleway/). Potential updates will happen there.
+
 Overview
 --------
 
